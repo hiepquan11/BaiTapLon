@@ -50,7 +50,7 @@ void TuyChon()
     
 void CaiDat()
 {
-
+    print("ABC");
 }
 
 void TrongGame()
