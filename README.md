@@ -1,2 +1,0 @@
-# BaiTapLon
-Bai Tap Lon
