@@ -61,7 +61,7 @@ void TrongGame()
 
 void TroChoiKetThuc()
 {
-
+printf("ABCD"); 
 }
     
 void ThongTin()
